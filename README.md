@@ -1,6 +1,6 @@
 # ✈️ Flights Dataset Analysis — Exploratory Data Analysis
 
-Exploratory Data Analysis on an Indian domestic flight booking dataset to uncover pricing patterns and trends across airlines, cities, timing, and ticket class.
+Exploratory Data Analysis on an Indian domestic flight booking dataset to uncover pricing patterns and trends across airlines, cities, timing and ticket class.
 
 ## 📂 Dataset
 
