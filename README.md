@@ -43,44 +43,44 @@ Exploratory Data Analysis on an Indian domestic flight booking dataset to uncove
 ### Analysis 1 — Airline Frequency Distribution
 **Question:** What are the airlines in the dataset, accompanied by their frequencies?
 
-![Airline Frequency](images/q1_airline_frequency.png)
+![Airline Frequency](images/graph1.png)
 
 ### Analysis 2 — Departure & Arrival Time Distribution
 **Question:** Show bar graphs representing the departure time & arrival time.
 
-![Departure and Arrival Time](images/q2_departure_arrival_time.png)
+![Departure and Arrival Time](images/graph2.png)
 
 ### Analysis 3 — Source & Destination City Distribution
 **Question:** Show bar graphs representing the source city & destination city.
 
-![Source and Destination City](images/q3_source_dest_city.png)
+![Source and Destination City](images/graph3.png)
 
 ### Analysis 4 — Price Variation Across Airlines
 **Question:** Does price vary with airlines?
 
-![Price by Airline](images/q4_price_by_airline.png)
+![Price by Airline](images/graph4.png)
 
 ### Analysis 5 — Price Variation by Departure & Arrival Time
 **Question:** Does ticket price change based on the departure time and arrival time?
 
-![Price by Departure Time](images/q5a_price_departure_time.png)
-![Price by Arrival Time](images/q5b_price_arrival_time.png)
-![Price by Arrival Time per Departure Time](images/q5c_price_arrival_by_departure.png)
+![Price by Departure Time](images/graph5.png)
+![Price by Arrival Time](images/graph6.png)
+![Price by Arrival Time per Departure Time](images/graph7.png)
 
 ### Analysis 6 — Price Variation by Source & Destination
 **Question:** How does the price change with change in source and destination?
 
-![Price by Source and Destination](images/q6_price_source_dest.png)
+![Price by Source and Destination](images/graph8.png)
 
 ### Analysis 7 — Price vs Days Left Before Departure
 **Question:** How is the price affected when tickets are bought just 1 or 2 days before departure?
 
-![Price vs Days Left](images/q7_price_vs_days_left.png)
+![Price vs Days Left](images/graph9.png)
 
 ### Analysis 8 — Price by Ticket Class
 **Question:** How does the ticket price vary between Economy and Business class?
 
-![Price by Class](images/q8_price_by_class.png)
+![Price by Class](images/graph10.png)
 
 ### Analysis 9 — Vistara Delhi → Hyderabad Business Price
 **Question:** What will be the average price of Vistara airline for a flight from Delhi to Hyderabad in Business class?
