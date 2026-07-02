@@ -103,16 +103,16 @@ jupyter notebook flights.ipynb
 ├── flights.ipynb
 ├── airlines_flights_data.csv
 ├── images/
-│   ├── q1_airline_frequency.png
-│   ├── q2_departure_arrival_time.png
-│   ├── q3_source_dest_city.png
-│   ├── q4_price_by_airline.png
-│   ├── q5a_price_departure_time.png
-│   ├── q5b_price_arrival_time.png
-│   ├── q5c_price_arrival_by_departure.png
-│   ├── q6_price_source_dest.png
-│   ├── q7_price_vs_days_left.png
-│   └── q8_price_by_class.png
+│   ├── graph1.png
+│   ├── graph2.png
+│   ├── graph3.png
+│   ├── graph4.png
+│   ├── graph5.png
+│   ├── graph6.png
+│   ├── graph7.png
+│   ├── graph8.png
+│   ├── graph9.png
+│   └── graph10.png
 └── README.md
 ```
 #
